@@ -18,7 +18,7 @@ environment:
 
 dependencies:
   bloc_pattern: ^2.3.3
-  dio: ^3.0.2
+  dio: ">=3.0.2 <6.0.0"
   rxdart: ^0.22.2
   flutter:
     sdk: flutter
